@@ -1,0 +1,9 @@
+h2{
+	font-family: Castellar, serif;
+}
+
+#header-background{
+	width: 100%;
+	height: 100px;
+	background: url(/images/HEADER.jpg);
+}
