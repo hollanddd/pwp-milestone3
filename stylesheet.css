@@ -1,18 +1,3 @@
-
-
-/*p{*/
-/*	text-align: center;*/
-/*	font-size: small;*/
-/*	background-color: darkgoldenrod;*/
-/*	padding-top: -10%;*/
-/*}*/
-
-/*span{*/
-/*	background-color: darkgoldenrod;*/
-/*	display: flex;*/
-/*	padding-left: 50%;*/
-/*}*/
-
 .countdown{
 	text-align: center;
 	background-color: goldenrod;
@@ -22,15 +7,6 @@
 	text-align: center;
 	background-color: red;
 }
-
-.releases{
-	padding-bottom: -15%;
-}
-
-.gallery{
-
-}
-
 
 .bg-img {
 	/* The image used */
