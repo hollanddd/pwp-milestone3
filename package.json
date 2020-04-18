@@ -1,0 +1,20 @@
+{
+  "name": "Russ Records",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Russell-Dorgan/pwp-milestone3.git"
+  },
+  "author": "Russell Dorgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Russell-Dorgan/pwp-milestone3/issues"
+  },
+  "homepage": "https://github.com/Russell-Dorgan/pwp-milestone3#readme"
+}
